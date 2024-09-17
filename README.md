@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @owen-makes
 - 👀 I’m interested in food, music and finance
-- 🌱 I’m currently learning Ruby and going through the Odin Project curriculum
+- 🌱 I’m currently learning Rails and going through The Odin Project curriculum
 
 <!---
 owen-makes/owen-makes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
